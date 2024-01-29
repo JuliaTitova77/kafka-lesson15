@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="kafka-lesson15,kafka-lesson15_290124,kafka-lesson15_290124_4072" />
+  </component>
+</project>
